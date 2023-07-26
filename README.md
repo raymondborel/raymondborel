@@ -1,6 +1,6 @@
 ### Hi Everyone! 👋
 
-- 🔭 I’m currently working on full stack Capstone Project!
+- 🔭 I’m currently working on Portfolio!
 - 👯 I’m looking to collaborate on anything I can contribute to!
 - 🤔 I’m looking for help with technical interview prep!
 - 💬 Ask me about anything, I love meeting new people!
