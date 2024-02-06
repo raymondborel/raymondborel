@@ -1,8 +1,7 @@
 ### Hi Everyone! 👋
 
-- 🔭 I’m currently working on Portfolio!
-- 👯 I’m looking to collaborate on anything I can contribute to!
-- 🤔 I’m looking for help with technical interview prep!
+- 🔭 I’m currently working on full-stack web development
+- 👯 I’m looking to collaborate on anything
 - 💬 Ask me about anything, I love meeting new people!
 - 📫 How to reach me: LinkedIn www.linkedin.com/in/raymondborel 
 
